@@ -11,7 +11,7 @@ const attributes: MiscProps[] = [
     title: 'What is southworks?',
     description: (
       <span className='flex text-center text-base px-10'>
-        {`I've been employed since April 2019. My responsibilities varies between
+        {`I've been employed since April 2019. My responsibilities vary between
         projects. I've been a React dev, a React-native dev, a .NET dev, a
         KnockoutJs dev. Got my hands dirty using serverless services, mainly
         Azure and AWS.`}
