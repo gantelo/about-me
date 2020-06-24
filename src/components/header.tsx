@@ -19,16 +19,15 @@ const Header = (props: HeaderProps): JSX.Element => {
     return () => clearInterval(interval);
   }, [flicker, setFlickering]);
 
-  const timeout = (j: number) => {
-    setTimeout(() => {
-      setDesc(description.slice(0, j));
-      if (j < descLen) {
-        timeout(++j);
-      }
-    }, 100);
-  };
-
   useEffect(() => {
+    const timeout = (j: number) => {
+      setTimeout(() => {
+        setDesc(description.slice(0, j));
+        if (j < descLen) {
+          timeout(++j);
+        }
+      }, 100);
+    };
     setTimeout(() => {
       timeout(0);
     }, 2000);

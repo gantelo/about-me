@@ -33,7 +33,7 @@ const Project = (props: ProjectProps): JSX.Element => {
         <a
           href={link}
           target='_blank'
-          rel='noreferrer'
+          rel='noopener noreferrer'
           className={`flex justify-center mt-4 font-bold text-xl ${
             link ? 'text-indigo-500' : ''
           }`}>

@@ -49,7 +49,7 @@ const attributes: MiscProps[] = [
       <div className='flex flex-col text-xs items-center'>
         <a
           className={`font-bold text-base uppercase text-white bg-blue-600 m-2 py-1 px-2 border rounded hover:bg-white hover:text-blue-600`}
-          href='https://github.com/gabriel1536'
+          href='https://gabriel1536.github.io/resume/'
           target='_blank'
           rel='noopener noreferrer'>
           yes
