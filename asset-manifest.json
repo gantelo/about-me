@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/gabriel1536/about-me/static/css/main.ee196592.chunk.css",
-    "main.js": "/gabriel1536/about-me/static/js/main.6ceb8a42.chunk.js",
-    "main.js.map": "/gabriel1536/about-me/static/js/main.6ceb8a42.chunk.js.map",
-    "runtime-main.js": "/gabriel1536/about-me/static/js/runtime-main.970e40a6.js",
-    "runtime-main.js.map": "/gabriel1536/about-me/static/js/runtime-main.970e40a6.js.map",
-    "static/js/2.7616dcc4.chunk.js": "/gabriel1536/about-me/static/js/2.7616dcc4.chunk.js",
-    "static/js/2.7616dcc4.chunk.js.map": "/gabriel1536/about-me/static/js/2.7616dcc4.chunk.js.map",
-    "index.html": "/gabriel1536/about-me/index.html",
-    "precache-manifest.83bbcb797c0498a980ce006fe4c04491.js": "/gabriel1536/about-me/precache-manifest.83bbcb797c0498a980ce006fe4c04491.js",
-    "service-worker.js": "/gabriel1536/about-me/service-worker.js",
-    "static/css/main.ee196592.chunk.css.map": "/gabriel1536/about-me/static/css/main.ee196592.chunk.css.map",
-    "static/js/2.7616dcc4.chunk.js.LICENSE.txt": "/gabriel1536/about-me/static/js/2.7616dcc4.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/gabriel1536/about-me/static/media/Monaco.5d922164.woff",
-    "static/media/emojis.png": "/gabriel1536/about-me/static/media/emojis.439c9060.png",
-    "static/media/eod.png": "/gabriel1536/about-me/static/media/eod.7c4bc25b.png",
-    "static/media/personalizer.png": "/gabriel1536/about-me/static/media/personalizer.3c4279c3.png",
-    "static/media/tokyo2020.png": "/gabriel1536/about-me/static/media/tokyo2020.2c7c88ac.png",
-    "static/media/wvd.png": "/gabriel1536/about-me/static/media/wvd.cb863dca.png"
+    "main.css": "/about-me/static/css/main.dc313133.chunk.css",
+    "main.js": "/about-me/static/js/main.717a1cea.chunk.js",
+    "main.js.map": "/about-me/static/js/main.717a1cea.chunk.js.map",
+    "runtime-main.js": "/about-me/static/js/runtime-main.a5056238.js",
+    "runtime-main.js.map": "/about-me/static/js/runtime-main.a5056238.js.map",
+    "static/js/2.7616dcc4.chunk.js": "/about-me/static/js/2.7616dcc4.chunk.js",
+    "static/js/2.7616dcc4.chunk.js.map": "/about-me/static/js/2.7616dcc4.chunk.js.map",
+    "index.html": "/about-me/index.html",
+    "precache-manifest.00448524819ceb6e093866fea4c237e8.js": "/about-me/precache-manifest.00448524819ceb6e093866fea4c237e8.js",
+    "service-worker.js": "/about-me/service-worker.js",
+    "static/css/main.dc313133.chunk.css.map": "/about-me/static/css/main.dc313133.chunk.css.map",
+    "static/js/2.7616dcc4.chunk.js.LICENSE.txt": "/about-me/static/js/2.7616dcc4.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/about-me/static/media/Monaco.5d922164.woff",
+    "static/media/emojis.png": "/about-me/static/media/emojis.439c9060.png",
+    "static/media/eod.png": "/about-me/static/media/eod.7c4bc25b.png",
+    "static/media/personalizer.png": "/about-me/static/media/personalizer.3c4279c3.png",
+    "static/media/tokyo2020.png": "/about-me/static/media/tokyo2020.2c7c88ac.png",
+    "static/media/wvd.png": "/about-me/static/media/wvd.cb863dca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.970e40a6.js",
+    "static/js/runtime-main.a5056238.js",
     "static/js/2.7616dcc4.chunk.js",
-    "static/css/main.ee196592.chunk.css",
-    "static/js/main.6ceb8a42.chunk.js"
+    "static/css/main.dc313133.chunk.css",
+    "static/js/main.717a1cea.chunk.js"
   ]
 }
