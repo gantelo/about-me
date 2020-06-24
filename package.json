@@ -2,7 +2,7 @@
   "name": "emojis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabriel1536.github.io/emojicommit",
+  "homepage": "https://github.com/gabriel1536/about-me",
   "dependencies": {
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
