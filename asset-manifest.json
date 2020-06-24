@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gabriel1536/about-me/static/css/main.ee196592.chunk.css",
+    "main.js": "/gabriel1536/about-me/static/js/main.275d33f4.chunk.js",
+    "main.js.map": "/gabriel1536/about-me/static/js/main.275d33f4.chunk.js.map",
+    "runtime-main.js": "/gabriel1536/about-me/static/js/runtime-main.970e40a6.js",
+    "runtime-main.js.map": "/gabriel1536/about-me/static/js/runtime-main.970e40a6.js.map",
+    "static/js/2.7616dcc4.chunk.js": "/gabriel1536/about-me/static/js/2.7616dcc4.chunk.js",
+    "static/js/2.7616dcc4.chunk.js.map": "/gabriel1536/about-me/static/js/2.7616dcc4.chunk.js.map",
+    "index.html": "/gabriel1536/about-me/index.html",
+    "precache-manifest.c784a54dd2211ecf6fbaa9b9124ae25a.js": "/gabriel1536/about-me/precache-manifest.c784a54dd2211ecf6fbaa9b9124ae25a.js",
+    "service-worker.js": "/gabriel1536/about-me/service-worker.js",
+    "static/css/main.ee196592.chunk.css.map": "/gabriel1536/about-me/static/css/main.ee196592.chunk.css.map",
+    "static/js/2.7616dcc4.chunk.js.LICENSE.txt": "/gabriel1536/about-me/static/js/2.7616dcc4.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/gabriel1536/about-me/static/media/Monaco.5d922164.woff",
+    "static/media/emojis.png": "/gabriel1536/about-me/static/media/emojis.439c9060.png",
+    "static/media/eod.png": "/gabriel1536/about-me/static/media/eod.7c4bc25b.png",
+    "static/media/personalizer.png": "/gabriel1536/about-me/static/media/personalizer.3c4279c3.png",
+    "static/media/tokyo2020.png": "/gabriel1536/about-me/static/media/tokyo2020.2c7c88ac.png",
+    "static/media/wvd.png": "/gabriel1536/about-me/static/media/wvd.cb863dca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.970e40a6.js",
+    "static/js/2.7616dcc4.chunk.js",
+    "static/css/main.ee196592.chunk.css",
+    "static/js/main.275d33f4.chunk.js"
+  ]
+}
