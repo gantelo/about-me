@@ -81,21 +81,21 @@
     "emoji": "🚨",
     "code": ":rotating_light:",
     "color": "teal",
-    "text": "Remove {x} warnings."
+    "text": "Remove warnings."
   },
   {
     "id": 13,
     "emoji": "🚧",
     "code": ":construction:",
     "color": "yellow",
-    "text": "WIP: component {x}."
+    "text": "WIP: component."
   },
   {
     "id": 14,
     "emoji": "✅",
     "code": ":white_check_mark:",
     "color": "green",
-    "text": "Add/Update test {x}."
+    "text": "Add/Update test."
   },
   {
     "id": 15,
@@ -116,7 +116,7 @@
     "emoji": "🖌️",
     "code": ":black_nib:",
     "color": "gray",
-    "text": "Update styling of {x}."
+    "text": "Update styling."
   },
   {
     "id": 18,
@@ -151,14 +151,14 @@
     "emoji": "📱",
     "code": ":iphone:",
     "color": "teal",
-    "text": "Update {x} responsiveness."
+    "text": "Update responsiveness."
   },
   {
     "id": 23,
     "emoji": "🥂",
     "code": ":clinking_glasses:",
     "color": "yellow",
-    "text": "Add functionality for {x} component."
+    "text": "Add functionality for component."
   },
   {
     "id": 24,
@@ -166,5 +166,12 @@
     "code": ":pencil2:",
     "color": "yellow",
     "text": "Fix typo"
+  },
+  {
+    "id": 25,
+    "emoji": "💫",
+    "code": ":dizzy:",
+    "color": "yellow",
+    "text": "Animate component"
   }
 ]
