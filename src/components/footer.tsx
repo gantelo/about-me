@@ -6,7 +6,7 @@ const Footer = (): JSX.Element => {
       <span className='text-xs'>Thanks for reading!</span>
       <a
         className={`font-bold text-xs uppercase text-blue-600 mt-2`}
-        href='mailto:gabriel1536@gmailcom'
+        href='https://github.com/gabriel1536/about-me'
         target='_blank'
         rel='noopener noreferrer'>
         View the source code
