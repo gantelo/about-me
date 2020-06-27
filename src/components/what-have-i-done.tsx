@@ -21,7 +21,6 @@ const attributes: ProjectProps[] = [
     ],
     img: personalizer,
     left: true,
-    link: 'https://personalizer-webinar.azurewebsites.net/index.html',
   },
   {
     title: 'Emoji for your commits',
