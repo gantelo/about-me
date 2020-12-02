@@ -34,12 +34,12 @@ const Header = (props: HeaderProps): JSX.Element => {
   }, []);
 
   return (
-    <div className='flex flex-col bg-black w-full h-48 justify-center items-center mb-6'>
-      <span className='text-white text-3xl sm:text-4xl lg:text-5xl font-bold'>
+    <div className='flex flex-col bg-black2 w-full h-48 justify-center items-center mb-6'>
+      <span className='text-blanquito text-3xl sm:text-4xl lg:text-5xl font-bold'>
         {name}
       </span>
       <div className='flex'>
-        <span className='text-white text-2xl sm:text-3xl lg:text-4xl mr-2'>{`$${desc}`}</span>
+        <span className='text-blanquito text-2xl sm:text-3xl lg:text-4xl mr-2'>{`$${desc}`}</span>
         <div
           className={`bg-white px-2 my-2 ${flicker ? 'invisible' : ''}`}></div>
       </div>

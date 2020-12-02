@@ -3,11 +3,10 @@ import Title from './title';
 
 const attributes = [
   'Create fun projects in my spare time',
-  'Write quality code',
+  'Write quality, functional code',
   'Keep my functions small, focused, and easy to understand',
   'Leave comments as I create and maintain code',
-  'Document every feature',
-  'Keep track of every bug',
+  "Keep track of every bug. Even though I don't make any",
   'Strictly follow security best practices',
   'Never stop learning',
 ];

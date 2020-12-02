@@ -8,36 +8,26 @@ interface MiscProps {
 
 const attributes: MiscProps[] = [
   {
-    title: 'What is southworks?',
+    title: 'What is makingsense?',
     description: (
       <span className='flex text-center text-base px-10'>
-        {`I've been employed since April 2019. My responsibilities vary between
-        projects. I've been a React dev, a React-native dev, a .NET dev, a
-        KnockoutJs dev. Got my hands dirty using serverless services, mainly
-        Azure and AWS.`}
+        {`I've been employed since July 2020. My responsibilities vary between
+        projects. I'm currently a react-native senior managing two apps and its CI/CD.`}
       </span>
     ),
-    link: 'https://www.southworks.com/',
+    link: 'https://makingsense.com/',
   },
   {
     title: 'Do i have a GitHub?',
     description: (
       <div className='flex flex-col text-xs'>
-        <span>I have two</span>
         <div className='flex flex-row justify-center'>
           <a
-            className={`font-bold text-base uppercase text-blue-600 m-2 py-1 px-2 border rounded hover:bg-blue-100`}
-            href='https://github.com/gabriel1536'
-            target='_blank'
-            rel='noopener noreferrer'>
-            Personal
-          </a>
-          <a
-            className={`font-bold text-base uppercase text-blue-600 m-2 py-1 px-2 border rounded hover:bg-blue-100`}
+            className={`font-bold text-base bg-2 uppercase text-blue-600 m-2 py-1 px-2 border rounded hover:bg-blue-100`}
             href='https://github.com/gantelo'
             target='_blank'
             rel='noopener noreferrer'>
-            Work
+            YES
           </a>
         </div>
       </div>
@@ -48,8 +38,8 @@ const attributes: MiscProps[] = [
     description: (
       <div className='flex flex-col text-xs items-center'>
         <a
-          className={`font-bold text-base uppercase text-white bg-blue-600 m-2 py-1 px-2 border rounded hover:bg-white hover:text-blue-600`}
-          href='https://gabriel1536.github.io/resume/'
+          className={`font-bold text-base bg-2 uppercase text-white m-2 py-1 px-2 border rounded hover:bg-white hover:text-blue-600`}
+          href='https://gantelo.github.io/resume/'
           target='_blank'
           rel='noopener noreferrer'>
           yes
@@ -62,7 +52,7 @@ const attributes: MiscProps[] = [
     description: (
       <div className='flex flex-col text-xs items-center'>
         <a
-          className={`font-bold text-base uppercase text-blue-600`}
+          className={`font-bold text-base uppercase text-rojito`}
           href='mailto:gabriel1536@gmailcom'
           target='_blank'
           rel='noopener noreferrer'>
@@ -83,7 +73,7 @@ const Misc = (): JSX.Element => {
           className='flex flex-col text-lg my-4 text-center'>
           <a
             className={`font-bold text-2xl uppercase ${
-              attribute.link ? 'text-blue-600' : ''
+              attribute.link ? 'text-rojito' : ''
             } mb-10`}
             href={attribute.link}
             target='_blank'
@@ -92,7 +82,7 @@ const Misc = (): JSX.Element => {
           </a>
           {attribute.description}
           {idx < attributes.length - 1 && (
-            <div className='mt-4 mb-4 border-t'></div>
+            <div className='mt-4 mb-4 border-t bg-2'></div>
           )}
         </span>
       ))}

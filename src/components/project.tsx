@@ -29,13 +29,13 @@ const Project = (props: ProjectProps): JSX.Element => {
           <img src={img} alt='' className='yeet rounded' />
         </div>
       )}
-      <div className='flex flex-col border mx-2 rounded'>
+      <div className='flex flex-col border mx-2 rounded bg-2'>
         <a
           href={link}
           target='_blank'
           rel='noopener noreferrer'
           className={`flex justify-center mt-4 font-bold text-xl ${
-            link ? 'text-indigo-500' : ''
+            link ? 'text-rojito' : ''
           }`}>
           {title}
         </a>
@@ -45,7 +45,7 @@ const Project = (props: ProjectProps): JSX.Element => {
         <div className='flex flex-wrap justify-center mt-4'>
           {techStack.map((tech, idx) => (
             <span
-              className='border rounded p-1 m-1 bg-indigo-100 font-bold text-base'
+              className='border rounded bg-2 p-1 m-1 bg-indigo-100 font-bold text-base'
               key={`${tech}-${idx}`}>
               {tech}
             </span>
@@ -54,7 +54,7 @@ const Project = (props: ProjectProps): JSX.Element => {
       </div>
       {(left || isMobile) && (
         <div className='flex my-auto mt-4'>
-          <img src={img} alt='' className='yeet rounded' />
+          <img src={img} alt='' className='yeet rounded bg-2' />
         </div>
       )}
     </div>
