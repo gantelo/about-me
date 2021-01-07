@@ -7,10 +7,20 @@ import wvd from '../assets/wvd.png';
 import personalizer from '../assets/personalizer.png';
 import eod from '../assets/eod.png';
 import diversion from '../assets/diversion.jpg';
+import cvmaker from '../assets/cvmaker.png';
 
 const attributes: ProjectProps[] = [
   {
-    title: 'FCA Analytics Apps - 2020',
+    title: '🚧 CV Generator - 2021 (WIP)',
+    description:
+      '(WORK IN PROGRESS) Simply create your CV from scratch, with a few nice guidelines to help you.',
+    techStack: ['React', 'Typescript', 'CSS', 'Github Workflows'],
+    img: cvmaker,
+    left: true,
+    link: 'https://gantelo.github.io/cv-maker/',
+  },
+  {
+    title: '🚨 FCA Analytics Apps - 2020 (private)',
     description:
       'Application for workers and managers to facilitate construction entry and accesses.',
     techStack: ['React-Native', 'Typescript', 'Azure Serverless', 'CircleCI'],
