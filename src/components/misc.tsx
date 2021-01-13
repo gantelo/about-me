@@ -39,7 +39,7 @@ const attributes: MiscProps[] = [
       <div className='flex flex-col text-xs items-center'>
         <a
           className={`font-bold text-base bg-2 uppercase text-white m-2 py-1 px-2 border rounded hover:bg-white hover:text-blue-600`}
-          href='https://gantelo.github.io/resume/'
+          href='https://drive.google.com/file/d/1cFZ4EumoNyvsdH0YMh0pKfNWyPOEBXn2/view'
           target='_blank'
           rel='noopener noreferrer'>
           yes
